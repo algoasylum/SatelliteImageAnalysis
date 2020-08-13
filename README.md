@@ -3,14 +3,14 @@ This repository contains some preliminary data, utility scripts, and experiments
 
 
 ### Tracking Urbanization 
-Bangalore <br/>
-<img src='Urbanization_GIFs/Bangalore1.gif' width=50% height=50%/> <br/>
-Hyderabad <br/>
-<img src='Urbanization_GIFs/Hyderabad1.gif' width=50% height=50%/> <br/>
-Mumbai <br/>
-<img src='Urbanization_GIFs/Mumbai_Urbanization.gif' width=50% height=50%/> <br/>
-Patna <br/>
-<img src='Urbanization_GIFs/Patna1.gif' width=50% height=50%/> <br/>
+#### Bangalore <br/> <br/>
+<img src='Urbanization_GIFs/Bangalore1.gif' width=50% height=50%/> <br/> <br/> <br/>
+#### Hyderabad <br/> <br/>
+<img src='Urbanization_GIFs/Hyderabad1.gif' width=50% height=50%/> <br/> <br/>
+#### Mumbai <br/> <br/>
+<img src='Urbanization_GIFs/Mumbai_Urbanization.gif' width=50% height=50%/> <br/> <br/>
+#### Patna <br/> <br/>
+<img src='Urbanization_GIFs/Patna1.gif' width=50% height=50%/> <br/> <br/>
 
 ### NightLight Images Statewise for India
 #### Data
