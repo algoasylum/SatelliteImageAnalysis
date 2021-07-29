@@ -12,7 +12,7 @@ It simply means representation of any time series data in a specific form.
 
 Below is the example of the same data being represented in different forms -
 
-![alt text](https://github.com/algoasylum/SatelliteImageAnalysis/tree/master/Data%20Representation%20Posts/TimeSeries.png "Data in Time Series")
+<img src="https://github.com/algoasylum/SatelliteImageAnalysis/tree/master/Data_Representation_Posts/img1.png"  width=100% /><br>
 
 ![alt text](https://github.com/algoasylum/SatelliteImageAnalysis/tree/master/Data%20Representation%20Posts/TimeSeries.png "Data in Frequency Domain (Fourier Transform - Real (L) and Imaginary (R))")
 
