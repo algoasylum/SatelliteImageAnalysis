@@ -19,7 +19,7 @@ Below is the example of the same data being represented in different forms -
 <br>
 <br>
 <p align="center">
-  <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img2.png"><br>
+  <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img2.png" alt="Image"><br>
   <em>Data in Frequency Domain (Fourier Transform - Real (L) and Imaginary (R))</em>
 </p>
 <br>
