@@ -80,7 +80,8 @@ So following are the key points to keep in mind before finalizing time series as
 </p>
 <br>
 
-Now if we look at the histogram of this data below, we can observe that the time information of the data (the time stamps) is completely lost. The X-axis here represents “Bins”, and the Y-axis represents “Frequency”.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now if we look at the histogram of this data below, we can observe that the time information of the data (the time stamps) is 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;completely lost. The X-axis here represents “Bins”, and the Y-axis represents “Frequency”. 
 
 <br>
 <p align="center">
@@ -88,4 +89,7 @@ Now if we look at the histogram of this data below, we can observe that the time
 </p>
 
 * This representation requires an equal number of components to represent the signal as the number of samples present in the data. In Fig. 1, 500 (x,y) points are used to make the signal, so to accurately represent the signal in time series form, we will have to use all the points i.e (500 x 2 (value and their corresponding timestamp))
+
+<br>
+To read more about time series, you can check out [this comprehensive article](https://www.influxdata.com/what-is-time-series-data/) in it.
 
