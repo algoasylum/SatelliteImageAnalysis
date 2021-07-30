@@ -11,10 +11,18 @@ Before diving into the nitty-gritty details of the topic, it is important to fir
 It simply means representation of any time series data in a specific form. 
 
 Below is the example of the same data being represented in different forms -
-
-![Time Series Image](https://github.com/algoasylum/SatelliteImageAnalysis/tree/master/Data_Representation_Images/img1.png)
-
-![alt text](https://github.com/algoasylum/SatelliteImageAnalysis/tree/master/Data%20Representation%20Posts/TimeSeries.png "Data in Frequency Domain (Fourier Transform - Real (L) and Imaginary (R))")
+<br>
+<p align="center">
+  <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img1.png" alt="Image"><br>
+  <em>Data in Time Series</em>
+</p>
+<br>
+<br>
+<p align="center">
+  <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img2.png"><br>
+  <em>Data in Frequency Domain (Fourier Transform - Real (L) and Imaginary (R))</em>
+</p>
+<br>
 
 The different forms of representing any time series data will be discussed below. 
 
@@ -41,10 +49,18 @@ So the 6 data representation forms that we will be covering are -
 So this is the standard form of representing any time series data. It has data points at their corresponding time stamps.
 
 Examples of this representation are - 
-
-![alt text](https://github.com/algoasylum/SatelliteImageAnalysis/tree/master/Data%20Representation%20Posts/TimeSeries.png "Data in Time Series")
-
-![alt text](https://github.com/algoasylum/SatelliteImageAnalysis/tree/master/Data%20Representation%20Posts/TimeSeries.png "Data in Time Series")
+<br>
+<p align="center">
+  <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img3.png" alt="Image"><br>
+  <em>Data in Time Series</em>
+</p>
+<br>
+<br>
+<p align="center">
+  <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img4.png" alt="Image"><br>
+  <em>Data in Time Series</em>
+</p>
+<br>
 
 The implementation of this form is also pretty straightforward -
 
