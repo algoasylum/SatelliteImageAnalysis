@@ -92,7 +92,7 @@ So following are the key points to keep in mind before finalizing time series as
 
 <br>
 
-So that is it about the time series representation! We hope it helped you!
+So that is it about the time series representation! We hope it helped you.
 
 To read more about time series, you can check out [this comprehensive article](https://www.influxdata.com/what-is-time-series-data/).
 
