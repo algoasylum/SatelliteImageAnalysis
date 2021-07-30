@@ -62,7 +62,9 @@ Examples of this representation are -
 The implementation of this form is also pretty straightforward -
 
 ```python
-import pandas
+import matplotlib.pyplot as plt
+plt.plot(time_stamps, data)
+plt.show()
 ```
 The most important question which needs to be asked now is - **_How should one know if time series is the ideal data representation form for their case?_**
 
@@ -70,7 +72,7 @@ So following are the key points to keep in mind before finalizing time series as
 
 * Time series representation is the ideal representation if the time information in the data is important for the problem you are trying to tackle. Meaning, if the time stamps corresponding to the data samples are significant to you, then go ahead with this representation, since all the other representation forms listed above lose the time information of the signal. Let us show you an example to illustrate this -
 
-Below is an example of data represented in time series form. We can see that every data point has its corresponding time stamp (X-axis). 
+  Below is an example of data represented in time series form. We can see that every data point has its corresponding time stamp (X-axis). 
 
 <br>
 <p align="center">
@@ -78,7 +80,7 @@ Below is an example of data represented in time series form. We can see that eve
 </p>
 <br>
 
-Now if we look at the histogram of this data below, we can observe that the time information of the data (the time stamps) is completely lost. The X-axis here represents “Bins”, and the Y-axis represents “Frequency”. 
+Now if we look at the histogram of this data below, we can observe that the time information of the data (the time stamps) is completely lost. The X-axis here represents “Bins”, and the Y-axis represents “Frequency”.
 
 <br>
 <p align="center">
