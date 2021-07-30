@@ -91,5 +91,10 @@ So following are the key points to keep in mind before finalizing time series as
 * This representation requires an equal number of components to represent the signal as the number of samples present in the data. In Fig. 1, 500 (x,y) points are used to make the signal, so to accurately represent the signal in time series form, we will have to use all the points i.e (500 x 2 (value and their corresponding timestamp))
 
 <br>
+
+So that is it about the time series representation! We hope it helped you!
+
 To read more about time series, you can check out [this comprehensive article](https://www.influxdata.com/what-is-time-series-data/) in it.
+
+
 
