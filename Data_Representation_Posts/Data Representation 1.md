@@ -52,13 +52,10 @@ Examples of this representation are -
 <br>
 <p align="center">
   <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img3.png" alt="Image"><br>
-  <em>Data in Time Series</em>
 </p>
-<br>
 <br>
 <p align="center">
   <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img4.png" alt="Image"><br>
-  <em>Data in Time Series</em>
 </p>
 <br>
 
@@ -75,11 +72,18 @@ So following are the key points to keep in mind before finalizing time series as
 
 Below is an example of data represented in time series form. We can see that every data point has its corresponding time stamp (X-axis). 
 
-![alt text](https://github.com/algoasylum/SatelliteImageAnalysis/tree/master/Data%20Representation%20Posts/TimeSeries.png "Data in Time Series")
+<br>
+<p align="center">
+  <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img5.png" alt="Image"><br>
+</p>
+<br>
 
 Now if we look at the histogram of this data below, we can observe that the time information of the data (the time stamps) is completely lost. The X-axis here represents “Bins”, and the Y-axis represents “Frequency”. 
 
-![alt text](https://github.com/algoasylum/SatelliteImageAnalysis/tree/master/Data%20Representation%20Posts/TimeSeries.png "Data in Time Series")
+<br>
+<p align="center">
+  <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img6.png" alt="Image"><br>
+</p>
 
 * This representation requires an equal number of components to represent the signal as the number of samples present in the data. In Fig. 1, 500 (x,y) points are used to make the signal, so to accurately represent the signal in time series form, we will have to use all the points i.e (500 x 2 (value and their corresponding timestamp))
 
