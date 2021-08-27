@@ -36,9 +36,9 @@ So the 6 data representation forms that we will be covering are -
 
   * Time series
   * Frequency domain, including - 
-  * Fourier Transform (Only Magnitude) 
-  * Fourier Transform (Magnitude and Phase)
-  * Fourier Transform (Real and Imaginary)
+    * Fourier Transform (Only Magnitude) 
+    * Fourier Transform (Magnitude and Phase)
+    * Fourier Transform (Real and Imaginary)
   * Histogram of time series
   * Log-frequency domain
   * Cepstrum
