@@ -14,13 +14,13 @@ Below is the example of the same data being represented in different forms -
 <br>
 <p align="center">
   <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img1.png" alt="Image"><br>
-  <em>Data in Time Series</em>
+  <em>Figure 1. Data in Time Series</em>
 </p>
 <br>
 <br>
 <p align="center">
   <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img2.png" alt="Image"><br>
-  <em>Data in Frequency Domain (Fourier Transform - Real (L) and Imaginary (R))</em>
+  <em>Figure 2.  Data in Frequency Domain (Fourier Transform - Real (L) and Imaginary (R))</em>
 </p>
 <br>
 
@@ -36,9 +36,9 @@ So the 6 data representation forms that we will be covering are -
 
   * **Time series**: To be discussed in detail below. An example of this representation would be the first image of this document. 
   * **Frequency domain, including -** 
-    * **Fourier Transform (Only Magnitude)**: 
-    * **Fourier Transform (Magnitude and Phase)**
-    * **Fourier Transform (Real and Imaginary)**
+    * **Fourier Transform (Only Magnitude)**: Decomposing the time series signal into its sine and cosine components (and only consider their magnitude). The second image from top is one example.
+    * **Fourier Transform (Magnitude and Phase)**: Decomposing the time series signal into its sine and cosine components (and considering both magnitude and phase). The third image from top is an illustration of this form.
+    * **Fourier Transform (Real and Imaginary)**: Decomposing the time series signal into its sine and cosine components (and considering their real and imaginary parts instead of their magnitude and phase). An instance of this form would be the image below 
   * **Histogram of time series**
   * **Log-frequency domain**
   * **Cepstrum**
@@ -52,10 +52,12 @@ Examples of this representation are -
 <br>
 <p align="center">
   <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img3.png" alt="Image"><br>
+  <em>Figure 3</em>
 </p>
 <br>
 <p align="center">
   <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img4.png" alt="Image"><br>
+  <em>Figure 4</em>
 </p>
 <br>
 
@@ -77,6 +79,7 @@ So following are the key points to keep in mind before finalizing time series as
 <br>
 <p align="center">
   <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img5.png" alt="Image"><br>
+  <em>Figure 5</em>
 </p>
 <br>
 
@@ -86,6 +89,7 @@ So following are the key points to keep in mind before finalizing time series as
 <br>
 <p align="center">
   <img src="https://github.com/algoasylum/SatelliteImageAnalysis/blob/master/Data_Representation_Images/img6.png" alt="Image"><br>
+  <em>Figure 6</em>
 </p>
 
 * This representation requires an equal number of components to represent the signal as the number of samples present in the data. In Fig. 1, 500 (x,y) points are used to make the signal, so to accurately represent the signal in time series form, we will have to use all the points i.e (500 x 2 (value and their corresponding timestamp))
