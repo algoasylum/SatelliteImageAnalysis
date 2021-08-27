@@ -34,15 +34,15 @@ Data is an integral and essential component to any problem that needs to be tack
 
 So the 6 data representation forms that we will be covering are -  
 
-  * Time series: To be discussed in detail below. An example of this representation would be the first image of this document. 
-  * Frequency domain, including - 
-    * Fourier Transform (Only Magnitude)
-    * Fourier Transform (Magnitude and Phase)
-    * Fourier Transform (Real and Imaginary)
-  * Histogram of time series
-  * Log-frequency domain
-  * Cepstrum
-  * Gaussian Mixture Model (GMM)
+  * **Time series**: To be discussed in detail below. An example of this representation would be the first image of this document. 
+  * **Frequency domain, including -** 
+    * **Fourier Transform (Only Magnitude)**: 
+    * **Fourier Transform (Magnitude and Phase)**
+    * **Fourier Transform (Real and Imaginary)**
+  * **Histogram of time series**
+  * **Log-frequency domain**
+  * **Cepstrum**
+  * **Gaussian Mixture Model (GMM)**
 
 ## Time Series
 
